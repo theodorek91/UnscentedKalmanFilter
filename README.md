@@ -10,7 +10,7 @@ UKF.cpp contains code that runs tracking and calling of the Process and Update f
 
 Build folder holds build files created by cmake and make.
 
-###Installation Notes
+### Installation Notes
 
 This repository includes two files that can be used to set up and install uWebSocketIO for either Linux or Mac systems. For windows you can use either Docker, VMware, or even Windows 10 Bash on Ubuntu to install uWebSocketIO. Please see this concept in the classroom for the required version and installation scripts.
 
@@ -22,7 +22,7 @@ cmake ..
 make
 ./ExtendedKF
 
-###Code Details
+### Code Details
 
 INPUT: values provided by the simulator to the c++ program
 
